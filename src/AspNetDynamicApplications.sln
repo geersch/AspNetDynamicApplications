@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGeers.Web.Security", "CGeers.Web.Security\CGeers.Web.Security.csproj", "{121C4A0D-F4A9-419C-BDCF-C0F1950C02CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGeers.DynamicApplications.Web.UI", "CGeers.DynamicApplications.Web.UI\CGeers.DynamicApplications.Web.UI.csproj", "{7BDFC0D8-56B7-4BA7-95A6-E761AAAF11C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGeers.Web.UI.WebControls", "CGeers.Web.UI.WebControls\CGeers.Web.UI.WebControls.csproj", "{57DAAC58-78B5-4CF1-A578-396D9BCB725A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{121C4A0D-F4A9-419C-BDCF-C0F1950C02CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{121C4A0D-F4A9-419C-BDCF-C0F1950C02CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{121C4A0D-F4A9-419C-BDCF-C0F1950C02CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{121C4A0D-F4A9-419C-BDCF-C0F1950C02CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BDFC0D8-56B7-4BA7-95A6-E761AAAF11C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BDFC0D8-56B7-4BA7-95A6-E761AAAF11C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BDFC0D8-56B7-4BA7-95A6-E761AAAF11C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BDFC0D8-56B7-4BA7-95A6-E761AAAF11C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57DAAC58-78B5-4CF1-A578-396D9BCB725A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57DAAC58-78B5-4CF1-A578-396D9BCB725A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57DAAC58-78B5-4CF1-A578-396D9BCB725A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57DAAC58-78B5-4CF1-A578-396D9BCB725A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
